@@ -22,7 +22,7 @@ Site prezentare **gratuit**, design Material Kit: [demo](https://site-gratuit-ma
 
 Site prezentare **gratuit**, design Paper Kit: [demo](https://site-gratuit-paper.websitemarket.ro/), [surse](https://github.com/creare-site/site-gratuit-paper)
 
-![Site Gratuit Paper Kit](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-ui-kit-intro.gif)
+![Site Gratuit Paper Kit](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-paper-intro.gif)
 
 <br />
 
