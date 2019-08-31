@@ -10,5 +10,21 @@ Site prezentare **gratuit**, design Now UI: [demo](https://site-gratuit-ui-kit.w
 
 <br />
 
+## [Site Gratuit Material Kit](https://site-gratuit-material.websitemarket.ro/)
+
+Site prezentare **gratuit**, design Material Kit: [demo](https://site-gratuit-material.websitemarket.ro/), [surse](https://github.com/creare-site/site-gratuit-material)
+
+![Site Gratuit Material Kit](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-material-intro.gif)
+
+<br />
+
+## [Site Gratuit Paper Kit](https://site-gratuit-paper.websitemarket.ro/)
+
+Site prezentare **gratuit**, design Paper Kit: [demo](https://site-gratuit-paper.websitemarket.ro/), [surse](https://github.com/creare-site/site-gratuit-paper)
+
+![Site Gratuit Paper Kit](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-ui-kit-intro.gif)
+
+<br />
+
 ---
-[Site Gratuit](https://websitemarket.ro/site-gratuit) - Produs digitale **WebsiteMarket**
+[Site Gratuit](https://websitemarket.ro/site-gratuit) - Produse digitale **WebsiteMarket**
