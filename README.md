@@ -34,5 +34,21 @@ Site prezentare **gratuit**, design Photon: [demo](https://site-gratuit-photon.w
 
 <br />
 
+## [Site Gratuit Stellar](https://site-gratuit-stellar.websitemarket.ro/)
+
+Site prezentare **gratuit**, design Stellar: [demo](https://site-gratuit-stellar.websitemarket.ro/), [surse](https://github.com/creare-site/site-gratuit-stellar)
+
+![Site Gratuit Stellar](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-stellar-intro.gif)
+
+<br />
+
+## [Site Gratuit Fractal](https://site-gratuit-fractal.websitemarket.ro/)
+
+Site prezentare **gratuit**, design Fractal: [demo](https://site-gratuit-fractal.websitemarket.ro/), [surse](https://github.com/creare-site/site-gratuit-fractal)
+
+![Site Gratuit Fractal](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-fractal-intro.gif)
+
+<br />
+
 ---
 [Site Gratuit](https://websitemarket.ro/site-gratuit) - Produse digitale **WebsiteMarket**
